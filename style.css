@@ -1,7 +1,7 @@
 /* Colors and fonts */
 
 body {
-  background-color: #1b2d51;
+  background-color: #25339e;
   font-family: 'Lora', serif;
   font-size: 17px;
   font-weight: lighter;
@@ -81,7 +81,7 @@ a:hover{
 }
 
 .btn-blue {
-  background-color: #1b2d51;
+  background-color: #25339e;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
